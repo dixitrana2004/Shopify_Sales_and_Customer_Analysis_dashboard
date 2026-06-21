@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard analyzing Shopify e-commerce transaction, customer, and retention data — built to surface actionable insights on sales trends, customer behavior, payment methods, and regional performance.
 
-![Shopify Sales & Customer Report](Shopify Sales and Customer Analysis dashboard.png)
+![Shopify Sales & Customer Report](Shopify_Sales_and_Customer_Analysis_dashboard.png)
 
 ## 📊 Overview
 
